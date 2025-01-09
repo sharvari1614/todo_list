@@ -1,8 +1,3 @@
-
-# Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
-# Click nbfs://nbhost/SystemFileSystem/Templates/Other/Dockerfile to edit this template
-
-# Use the official openjdk image to build the app
 FROM openjdk:17-jdk-slim as build
 
 # Set the working directory inside the container
