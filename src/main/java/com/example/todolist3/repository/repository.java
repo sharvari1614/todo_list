@@ -4,13 +4,12 @@
  */
 package com.example.todolist3.repository;
 
+/* 
 import com.example.todolist3.model.content;
 import org.springframework.data.jpa.repository.JpaRepository;
 
-/**
- *
- * @author Sharvari
- */
+
 public interface repository extends JpaRepository<content,String>{
     
 }
+*/

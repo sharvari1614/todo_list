@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package com.example.todolist3.controller;
-
+/*
 import com.example.todolist3.model.content;
 import com.example.todolist3.service.service;
 import java.util.List;
@@ -18,10 +18,6 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-/**
- *
- * @author Sharvari
- */
 @RestController
 @RequestMapping("/todolist")
 public class controller {
@@ -64,3 +60,4 @@ public class controller {
         service.deleteById(id);
     }
 }
+ */

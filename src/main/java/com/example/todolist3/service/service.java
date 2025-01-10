@@ -4,6 +4,7 @@
  */
 package com.example.todolist3.service;
 
+/* 
 import com.example.todolist3.model.content;
 import com.example.todolist3.repository.repository;
 import java.util.List;
@@ -11,10 +12,7 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-/**
- *
- * @author Sharvari
- */
+
 @Service
 public class service {
     
@@ -53,3 +51,4 @@ public class service {
     
     
 }
+*/

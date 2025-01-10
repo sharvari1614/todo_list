@@ -1,0 +1,14 @@
+{
+    "name": "Spring Boot To-Do List",
+    "dockerComposeFile": ["docker-compose.yml"],
+    "service": "app",
+    "workspaceFolder": "/workspace",
+    "extensions": [
+      "vscjava.vscode-java-pack",
+      "ms-azuretools.vscode-docker"
+    ],
+    "settings": {
+      "java.configuration.updateBuildConfiguration": "automatic"
+    }
+  }
+  
