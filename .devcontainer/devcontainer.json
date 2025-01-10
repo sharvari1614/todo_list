@@ -9,8 +9,9 @@
         "vscjava.vscode-java-pack",
         "ms-azuretools.vscode-docker",
         "vscjava.vscode-spring-boot",
-        "pivotal.vscode-spring-boot-dashboard"
-      ],
+        "pivotal.vscode-spring-boot-dashboard",
+        "ms-azuretools.vscode-docker",
+        "ms-vscode-remote.remote-containers"      ],
       "settings": {
         "java.configuration.updateBuildConfiguration": "automatic"
       }
