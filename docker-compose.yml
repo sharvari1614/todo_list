@@ -20,12 +20,10 @@ services:
     image: mysql:8.0
     container_name: mysql-db
     ports:
-      - "3306:3306"
+      - "3307:3306"
     environment:
       MYSQL_ROOT_PASSWORD: root
       MYSQL_DATABASE: todo_db
-      MYSQL_USER: root
-      MYSQL_PASSWORD: root
     volumes:
       - db_data:/var/lib/mysql
 
