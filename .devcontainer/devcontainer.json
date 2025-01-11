@@ -1,8 +1,8 @@
 {
     "name": "Spring Boot To-Do List",
-    "dockerComposeFile": ["docker-compose.yml"],
+    "dockerComposeFile": ["./docker-compose.yml"],
     "service": "app",
-    "workspaceFolder": "/workspace",
+    "workspaceFolder": "/app",
     "customizations": {
     "vscode": {
       "extensions": [
